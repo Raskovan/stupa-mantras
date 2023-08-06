@@ -18,17 +18,14 @@ const MantrasIntro = () => {
         className="intro_image"
       /> */}
       <p className="intro_text">
-        Whether you do a formal Guru Yoga session or are doing mantras while
-        walking in the park...if you are dedicating them to{" "}
-        <a href="https://www.diamondway.org/nrc/" target="_new">
+        Whether you do a formal Guru Yoga session or are doing mantras while walking in the park...if you are dedicating them to{" "}
+        <a href="https://www.diamondway.org/nrcstupa/" target="_new">
           the Stupa of Complete Victory at NRC
         </a>
-        , make that wish and simply count them and make a record of it. Then
-        input the number of mantras in the form below. We wish to keep this
-        project ongoing throughout {currentYear()} and see how soon we can
-        accomplish <b>11,111,111 Karmapa Chennos</b>. Primarily we wish to build
-        up Karmapa&apos;s powerfield and establish the finest conditions for the
-        realization of the first Diamond Way Buddhism stupa in North America.
+        , make that wish and simply count them and make a record of it. Then input the number of mantras in the form below. We wish to keep
+        this project ongoing throughout {currentYear()} and see how soon we can accomplish <b>11,111,111 Karmapa Chennos</b>. Primarily we
+        wish to build up Karmapa&apos;s powerfield and establish the finest conditions for the realization of the first Diamond Way Buddhism
+        stupa in North America.
       </p>
     </div>
   );
